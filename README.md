@@ -1,1 +1,1 @@
-# EDAdetail
+# EDA detail
