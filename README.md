@@ -1,5 +1,4 @@
 # EDA (Emergency Disaster Alert)
-Video https://youtu.be/HOlYVgFGtbs
 
 ## สิ่งที่จำเป็นในการ Run Project
 1. Tomcat
