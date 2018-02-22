@@ -6,9 +6,8 @@ Video https://youtu.be/HOlYVgFGtbs
 2. Maven
 
 # รายละเอียดฐานข้อมูล
- - Database Name : HelloWorld
- - Table Name : hello
- - ชุดคำสั่ง SQL อยู่ในไฟล์ชื่อ HelloWorld.sql
+ - Database Name : emergencyeda
+ - ชุดคำสั่ง SQL อยู่ในไฟล์ชื่อ table.sql
  
 # สิ่งที่ต้องทำก่อนการ deploy
 หลังจากที่ clone ตัวโปรเจคลงมาแล้ว ให้เปิด bash และเข้าไปที่ directory ของโปรเจค โดยใช้คำสั่ง
@@ -25,7 +24,7 @@ cp config.properties
 ```bash
 DB_IP=localhost
 DB_PORT=3306
-DB_NAME=HelloWorld
+DB_NAME=emergencyeda
 DB_USERNAME=
 DB_PASSWORD=
 ```
